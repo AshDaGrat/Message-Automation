@@ -1,2 +1,0 @@
-{path to chrome driver}
-{File name of .xls sheet}
